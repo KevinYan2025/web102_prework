@@ -19,8 +19,11 @@ body {
     margin-top: -10px;
 }
 
-.stats-container {
+.stats-container{
     display: flex;
+    align-items:center;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -64,6 +67,7 @@ body {
 
 #button-container {
     text-align: center;
+    
 }
 
 button {
@@ -72,4 +76,11 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    cursor: pointer;
+}
+button:hover{
+    box-shadow:0 0 30px lightblue ;
+}
+button:active{
+    background-color: aqua;
 }
