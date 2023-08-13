@@ -25,8 +25,6 @@ Here's a walkthrough of implemented features:
 ![Video Walkthrough](/web102-prework-walktrough.gif)
 
 
-<img src='![Video Walkthrough](https://github.com/web102_prework/web102-prework-walktrough.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCat
 <!-- Recommended tools:
